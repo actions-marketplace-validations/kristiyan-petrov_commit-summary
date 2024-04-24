@@ -1,6 +1,7 @@
 # action.yml
 name: 'Get Commit Summary'
 description: 'Get commits from previrous tag to new tag'
+author: 'Rasukarusan'
 inputs:
   ref:
     description: 'new tag'
